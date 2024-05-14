@@ -1,1 +1,1 @@
-<h1>Welcome to Petspot</h1>
+<h1>Welcome to Petspot!</h1>
